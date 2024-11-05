@@ -1,0 +1,24 @@
+.content{
+    width: 100%;
+    position: relative;
+    margin: 100px 200px;
+}
+.heading{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    transform: translate(left- 50% right- 50% );
+    z-index: 500;
+    font-size: 20px;
+}
+.bolck{
+    display: block;
+}
+.gori{
+    
+}
+.ged-img{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
